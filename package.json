@@ -1,0 +1,10 @@
+{
+  "name": "zap-chat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "start": "cd client && npm run preview",
+    "dev": "cd client && npm run dev"
+  }
+} 
